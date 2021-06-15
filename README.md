@@ -11,8 +11,10 @@ Bienvenidos a la práctica `Heroku` de la materia `Aplicación de Redes`.
 
 Aplicaciones y sistemas
 
-- [Git](https://git-scm.com/downloads)
-- [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
+1. [Git](https://git-scm.com/downloads)
+2. [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
+3. [Ruby](https://www.ruby-lang.org/en/documentation/installation/)
+   1. [Bundler](https://bundler.io/)
 
 
 
