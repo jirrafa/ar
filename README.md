@@ -1,33 +1,21 @@
-# Ar
+# ar
 
-Welcome to your new Hanami project!
+Bienvenidos a la práctica `Heroku` de la materia `Aplicación de Redes`.
 
-## Setup
+## Requisitos
 
-How to run tests:
+### Cuentas
 
-```
-% bundle exec rake
-```
+1. [GitHub](https://github.com/join)
+2. [Heroku](https://signup.heroku.com/)
 
-How to run the development console:
+Aplicaciones y sistemas
 
-```
-% bundle exec hanami console
-```
+- [Git](https://git-scm.com/downloads)
+- [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
 
-How to run the development server:
 
-```
-% bundle exec hanami server
-```
 
-How to prepare (create and migrate) DB for `development` and `test` environments:
+## Desarrollo
 
-```
-% bundle exec hanami db prepare
-
-% HANAMI_ENV=test bundle exec hanami db prepare
-```
-
-Explore Hanami [guides](https://guides.hanamirb.org/), [API docs](http://docs.hanamirb.org/1.3.4/), or jump in [chat](http://chat.hanamirb.org) for help. Enjoy! 🌸
+Será publicado posterior al día de práctica.
