@@ -16,6 +16,25 @@ Aplicaciones y sistemas
 
 
 
-## Desarrollo
+## Instalación y uso
 
-Será publicado posterior al día de práctica.
+1. Forkear el proyecto, o bien, descargalo directamente.
+
+   ```bash
+   git clone https://github.com/jaimecgomezz/ar.git
+   ```
+
+2. Instalar dependencias
+
+   ```bash
+   cd ar/
+   bundle install
+   ```
+
+3. Levantar el servidor
+
+   ```bash
+   bundle exec hanami server
+   ```
+
+4. Visitar `http://localhost:2300`
