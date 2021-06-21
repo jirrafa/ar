@@ -7,7 +7,7 @@ module Web
         def call(params)
           nombre = params[:nombre] || 'Alumno'
 
-          status 200, '¡Saludos! #{nombre}!'
+          status 200, "Saludos #{nombre}!"
         end
       end
     end
